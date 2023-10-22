@@ -21,6 +21,8 @@ Write a function called combineAllArrays that can take any number of arrays as a
 
 Write a function called sumAndSquare that takes any number of arguments, squares them, and returns the sum of all the squared values.
 
+### Languages used:
+
 | HTML | JS |
 
 Completed by [Vero Polegre](https://github.com/VeroPolegre)
